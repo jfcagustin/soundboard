@@ -4,6 +4,7 @@
 $colour:hsla(350,100%,25%,1);
 $grey:desaturate($colour,90%);
 body {
+	background-color:grey;
   background:lighten($grey,30%);
     background-image:
     linear-gradient(40deg,transparentize($grey,0.95),transparentize($colour,0.95)),
@@ -76,8 +77,4 @@ button:active {
     0px 0px 1px 12px hsla(350,80%,40%,0.9),
     1px 3px 14px 14px hsla(350,80%,0%,0.4)
   ;
-}
-
-body {
-	background-color:grey;
 }
