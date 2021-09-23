@@ -10,7 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="029c25c6-a52f-40e6-bc30-14258293b991" name="Default Changelist" comment="First commit" />
+    <list default="true" id="029c25c6-a52f-40e6-bc30-14258293b991" name="Default Changelist" comment="Second commit (styling)">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +40,8 @@
       <option name="presentableId" value="Default" />
       <updated>1632400872220</updated>
       <workItem from="1632400874058" duration="49000" />
+      <workItem from="1632401698578" duration="278000" />
+      <workItem from="1632402768709" duration="2000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1632400897804</created>
@@ -46,7 +50,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632400897804</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Second commit (styling)">
+      <created>1632401813959</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1632401813959</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -62,15 +73,17 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+    <MESSAGE value="Second commit (styling)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second commit (styling)" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1632400903699">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1632401820437">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1632400903699" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1632401820437" />
   </component>
 </project>
