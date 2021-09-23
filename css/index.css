@@ -33,7 +33,7 @@ button {
     cursor:pointer;
     background-color:hsla(39, 100%, 50%,1);
     background-image:
-            linear-gradient(273deg,hsla(350,80%,60%,1) 30%, hsla(350,80%,50%,1) 40%)
+            linear-gradient(273deg,hsla(39, 100%, 50%,1) 30%, hsla(39, 100%, 50%,1) 40%)
 ;
     border:none; border-radius:16px;
     box-shadow:
