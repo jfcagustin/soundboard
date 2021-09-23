@@ -36,7 +36,7 @@ button {
   background-image:
     linear-gradient(273deg,hsla(350,80%,60%,1) 30%, hsla(350,80%,50%,1) 40%)
   ;
-  border:none; border-radius:16px;
+  border:none; border-radius:50px;
   box-shadow:
     inset 0px 0px 1px 1px hsla(350,80%,30%,0.9),
     inset 0px 0px 2px 3px hsla(350,80%,50%,0.9),
