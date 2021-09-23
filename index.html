@@ -9,7 +9,15 @@
 
 <div id="boomButton">
     <audio id="sound1" src="sounds/boom.mp3" preload="auto"></audio>
-    <button snd.currentTime=0; onclick="document.getElementById('sound1').play();">BOOM</button>
+    <button onclick="document.getElementById('sound1').play();">BOOM</button>
+    function play() {
+    var audio = document.getElementById('sound1');
+    if (sound.paused) {
+        sound.play();
+    }else{
+        sound.currentTime = 0
+    }
+}
 </div>
 
 <div id="bruhButton">
