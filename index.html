@@ -4,38 +4,43 @@
     <meta charset="UTF-8">
     <title>Title</title>
     <link rel="stylesheet" href="css/index.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 </head>
 <body>
 
-<div id="boomButton">
+<div class="container">
+    <div class="row">
+<div id="boomButton" class="col">
     <audio id="sound1" src="sounds/boom.mp3" preload="auto"></audio>
     <button onclick="document.getElementById('sound1').play();">BOOM</button>
 </div>
 
-<div id="bruhButton">
+<div id="bruhButton" class="col">
     <audio id="sound2" src="sounds/bruh.mp3" preload="auto"></audio>
     <button onclick="document.getElementById('sound2').play();">BRUH</button>
 </div>
     
-<div id="fartButton">
+<div id="fartButton" class="col">
     <audio id="sound3" src="sounds/fart.mp3" preload="auto"></audio>
     <button onclick="document.getElementById('sound3').play();">FART!</button>
 </div>
     
-<div id="fart2Button">
+<div id="fart2Button" class="col">
     <audio id="sound4" src="sounds/fart2.mp3" preload="auto"></audio>
     <button onclick="document.getElementById('sound4').play();">RIP!!!!!</button>
 </div>
-    
-<div id="dropButton">
+    </div>
+    <div class="row">
+<div id="dropButton" class="col">
     <audio id="sound5" src="sounds/drop.mp3" preload="auto"></audio>
     <button onclick="document.getElementById('sound5').play();">DROP!</button>
 </div>
 
-<div id="amogosButton">
+<div id="amogosButton" class="col">
     <audio id="sound6" src="sounds/amogos.mp3" preload="auto"></audio>
     <button onclick="document.getElementById('sound6').play();">AMOG</button>
 </div>
-    
+    </div>
+</div>
 </body>
 </html>
